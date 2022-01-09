@@ -59,6 +59,11 @@ h4 {
   margin:33px;
 }
 
-input {
+input[type="submit"] {
   padding: 1px 6px;
+}
+
+.show {
+  margin-left: 0px;
+  font-size:13px;
 }
