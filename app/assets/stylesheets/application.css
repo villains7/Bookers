@@ -4,6 +4,10 @@
   box-sizing: border-box;
 }
 
+#notice {
+  color:green;
+}
+
 .main , p {
   font-family:"Verdana";
   margin: 33px;
