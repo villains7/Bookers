@@ -1,4 +1,4 @@
 class Book < ApplicationRecord
-  validates :title, presence: {message: "Empty error"}
-  validates :body, presence: {message: "Empty error"}
+  validates :title, presence: true
+  validates :body, presence: true
 end
